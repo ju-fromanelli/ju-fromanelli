@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+Oii, Bem Vindo!
+Sou a Juliana.
 
  <div>
    <a href="https://github.com/ju-fromanelli">
